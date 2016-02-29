@@ -7,7 +7,8 @@
     },
     "require": {
         "php": ">=5.4",
-        "ext-imagick": "*"
+        "ext-imagick": "*",
+        "codekanzlei/cake-frontend-bridge": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "*",
