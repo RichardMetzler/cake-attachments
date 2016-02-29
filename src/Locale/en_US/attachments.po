@@ -17,7 +17,7 @@ msgstr ""
 
 #: /Users/cleptric/Sites/bo_backend/Template/Element/attachments_area.ctp:16
 msgid "attachments"
-msgstr "Mange attachments"
+msgstr "Manage attachments"
 
 #: /Users/cleptric/Sites/bo_backend/Template/Element/attachments_area.ctp:41
 msgid "edit_tags"
